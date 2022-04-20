@@ -1,5 +1,5 @@
-# # -*- coding: utf-8 -*-
-# import os
+# -*- coding: utf-8 -*-
+import os
 # def rename():
 #     count=1 #初始文件编号为1
 #     path=r"A:\Data\all\labels" #需要重命名的文件目录，注意目录的写法
